@@ -1,0 +1,15 @@
+body{
+    morgin: 0;
+    font-family: sans-serif;
+}
+.palette{
+    display: flex;
+    height: 100vh;
+}
+.color{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
